@@ -1,0 +1,26 @@
+Data Declaration for Card Master:
+
+1. Data Accessed:
+   • Public Profile (name, profile photo) via `public_profile` permission.
+   • Email Address via `email` permission.
+   • User Friends List via `user_friends` permission (if used for social features).
+
+2. Data Usage:
+   • Public Profile: To create and display your in‑game profile with your name and photo.
+   • Email Address: To uniquely identify your account and for account recovery or support communications.
+   • User Friends List: To show which friends are also playing Card Master and enable friendly competition.
+
+3. Data Storage & Retention:
+   • All Facebook data is stored securely on our servers using industry-standard encryption.
+   • We retain user data for as long as the user’s account is active, and up to 30 days after account deletion for backup and legal compliance.
+
+4. Data Sharing:
+   • We do not share Facebook-sourced data with third parties, except for aggregated, anonymized analytics.
+   • We do not sell or rent personal data.
+
+5. Policy Compliance:
+   • Our Privacy Policy (link: https://github.com/DhyanCompany/Card-Master-Privacy-Policy/blob/main/Privacy-Policy-Card%20Master) fully describes our data practices.
+   • Users may revoke permissions at any time via Facebook Settings or in-app account settings.
+
+6. Contact Information:
+   • For any questions about data handling, email: advox01@gmail.com.
